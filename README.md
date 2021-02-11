@@ -1,23 +1,23 @@
 # Hello_World
 
-#H1 **Hello!**
+## **Hello!**
 *My name is Kayla Van Langen*
 
-#H1 **Description**
+## **Description**
 *I'm a sophomore at the University of Iowa*
 
-#H1 **What Do I Study?**
+## **What Do I Study?**
 *1. Finance*
 *2. Business Analytics*
 *3. Sport and Recreation Management*
 
-#H1 **Student Organizations**
+## **Student Organizations**
 - Students to Assist Recruitment (STAR)
 - Iowa Track Club 
 - Delta Sigma Pi 
 - Sport and Recreation Management Club 
 
-#H1 **Interests**
+## **Interests**
 *Running*
 *Lifting*
 *Cooking*

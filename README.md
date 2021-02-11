@@ -7,9 +7,9 @@
 *I'm a sophomore at the University of Iowa*
 
 ## **What Do I Study?**
-*1. Finance*
-*2. Business Analytics*
-*3. Sport and Recreation Management*
+1. Finance
+2. Business Analytics
+3. Sport and Recreation Management
 
 ## **Student Organizations**
 - Students to Assist Recruitment (STAR)
@@ -18,7 +18,7 @@
 - Sport and Recreation Management Club 
 
 ## **Interests**
-*Running*
-*Lifting*
-*Cooking*
-*True Crime Documentaries*
+- Running
+- Lifting
+- Cooking
+- True Crime Documentaries

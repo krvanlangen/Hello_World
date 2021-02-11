@@ -22,3 +22,11 @@
 - Lifting
 - Cooking
 - True Crime Documentaries
+
+## **Stuff I wanted to Try**
+1. ~~Crossing Stuff Out~~
+- [x] Figure Out GitHub
+- [ ] Do LinkedIn Learning 
+- [ ] Submit Assignment 
+- [ ] Go to Class Tomorrow Morning 
+
